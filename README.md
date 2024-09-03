@@ -33,7 +33,5 @@ The web application has a simple and user-friendly interface:
 3. **Action Buttons:** Includes buttons for adding, editing, and deleting tasks, as well as checkboxes for marking tasks as complete.
 4. **Responsive Design:** The app adjusts seamlessly between desktop and mobile views, ensuring accessibility across devices.
 
-## Future Enhancements
-- **User Authentication:** Add a login system to allow multiple users to manage their own tasks.
-- **Task Due Dates:** Allow users to set due dates for tasks and display upcoming tasks with reminders.
-- **Task Prioritization:** Implement a prioritization system for tasks based on urgency or importance.
+## Conclusion
+This To-Do List web application demonstrates the integration of a React.js frontend with a Node.js and SQLite backend to create a dynamic and user-friendly task management tool. Through this project, key skills such as state management, database interaction, and API handling were practiced, providing a solid foundation for building more complex applications in the future. 
